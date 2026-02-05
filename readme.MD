@@ -1,9 +1,9 @@
 # Usage
 
 Arguments needed :
-E/D -- Encrypt or Decrypt.
-String -- Text to E/D.
-Int -- Shift number
+- E/D -- Encrypt or Decrypt.
+- String -- Text to E/D.
+- Int -- Shift number
 
 ## Examples
 
